@@ -1,0 +1,13 @@
+{
+  "name": "flask-app",
+  "version": "1.0.0",
+  "description": "Your Flask Application Description",
+  "scripts": {
+    "dev": "python app.py"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "flask": "^2.0.0"
+  }
+}
